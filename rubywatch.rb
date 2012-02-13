@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'rubygems'
+require 'yaml'
 require 'time'
 require 'cgi'
 require 'hmac'
