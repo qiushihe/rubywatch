@@ -2,6 +2,8 @@
 
 Amazon CloudWatch daemon written in Ruby
 
+Install `ruby-hmac` gem.
+
 ### Setup
 
 Create a `config.yml` based on the content of `config.example.yml`.
